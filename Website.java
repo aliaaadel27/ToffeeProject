@@ -93,8 +93,26 @@ public class Website {
     }
 
     public boolean uniqueName(String name) {
+        try {
+            BufferedReader names = new BufferedReader(new FileReader("usernames.txt"));
+            String line = names.readLine();
+            
         //if 'name' exists in the file ======> false
+            
+            while (line != null) {
+                if (name.equals(line))
+                    return false;
+                line = names.readLine();
+            }
+
+            names.close();
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        
         //else ======> true
+        
         return true;
     }
 
