@@ -1,3 +1,5 @@
+package src;
+
 public class giftVoucher implements PaymentMethods {
     private String code;
 

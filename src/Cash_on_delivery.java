@@ -1,3 +1,5 @@
+package src;
+
 public class Cash_on_delivery implements PaymentMethods {
 
 //    public Cash_on_delivery() {}

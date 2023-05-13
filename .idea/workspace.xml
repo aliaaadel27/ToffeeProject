@@ -5,9 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73fae60e-1a75-4030-bd74-4d75f1b30b03" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SendMail.java" beforeDir="false" afterPath="$PROJECT_DIR$/SendMail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Buyer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Buyer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cash_on_delivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cash_on_delivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Catalogue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Catalogue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E_wallet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_wallet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loyalty_points.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loyalty_points.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PaymentMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PaymentMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SendMail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SendMail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppingCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Statistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Status.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Website.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Website.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/giftVoucher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/giftVoucher.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +47,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2PU4Gus5lFpLyF5wbLw5a4sUR2h" />
   <component name="ProjectViewState">
@@ -44,6 +63,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="src" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="open ToffeeProject" />

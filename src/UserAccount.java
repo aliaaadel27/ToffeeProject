@@ -1,3 +1,5 @@
+package src;
+
 public class UserAccount {
     private String userName , email , password , address , phoneNumber;
     public UserAccount(String n, String e, String pass, String adrs, String phNum) {

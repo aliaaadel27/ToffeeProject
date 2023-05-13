@@ -1,3 +1,5 @@
+package src;
+
 public class E_wallet implements PaymentMethods {
     @Override
     public void pay(float amount) {
