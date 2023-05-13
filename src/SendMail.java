@@ -25,7 +25,7 @@ public class SendMail {
         String send_to = email;
 
         // Sender's email ID needs to be mentioned
-        String sent_from = "Add your email"; //the OTP emails will be sent from this email
+        String sent_from = "aadel9711@gmail.com"; //the OTP emails will be sent from this email
 
         // Assuming you are sending email from through gmails smtp
         String host = "smtp.gmail.com";
@@ -44,7 +44,7 @@ public class SendMail {
 
             protected PasswordAuthentication getPasswordAuthentication() {
 
-                return new PasswordAuthentication("Add your email", "Your app password"); //app password
+                return new PasswordAuthentication("aadel9711@gmail.com", "dloukqadjwxfioah"); //app password
 
             }
 
