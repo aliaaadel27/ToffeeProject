@@ -1,0 +1,42 @@
+1
+Lemon Cupcakes
+brandName1
+50
+Cupcakes
+33
+description1
+5
+item name5
+brand name5
+100
+Cupcakes
+0
+description5
+3
+Candy grapes
+brandName3
+300
+Russian dessert
+0
+description3
+4
+Boston cream donuts
+brandName4
+30
+Donuts
+0
+description4
+2
+Toffee
+brandName2
+20
+Donuts
+0
+description2
+6
+Honey cake
+brand6
+200
+Russian dessert
+10
+Description6
